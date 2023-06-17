@@ -1,6 +1,4 @@
 //program to check if a matrix is lower triangle or upper triangle.
-
-
 int check_lower_triangular_matrix(int mat[3][3])
 {
 	int i, j;
